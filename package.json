@@ -21,8 +21,5 @@
     "public-key",
     "private-key",
     "RSA"
-  ],
-  "dependencies": {
-    "crypto-js": "^4.0.0"
-  }
+  ]
 }
